@@ -13,4 +13,6 @@
 - FAQ аккордеон
 - Футер с навигацией
 
+```
 "tags": ["saas", "light", "ai", "pricing", "testimonials"]
+```
